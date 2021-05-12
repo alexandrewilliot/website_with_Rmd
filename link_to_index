@@ -1,1 +1,6 @@
 https://alexandrewilliot.github.io/website_with_Rmd/index.html
+
+
+you have to go to “Settings” of the repository then go down to “Github Pages” option. Select the “main/master” (depending on your repository) and “root”.
+You will see the link to your page in the Github pages bar. Wait for it till it changes to green color or try that link after few minutes. 
+Using that link you can see your html file.
